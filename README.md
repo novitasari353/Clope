@@ -1,16 +1,22 @@
-## Group Membership
+### Group Membership
+TEAM B:
 - Novitasari (1313618009) - Ilmu Komputer Universitas Negeri Jakarta
 - Lisa Arief (1313618033) - Ilmu Komputer Universitas Negeri Jakarta
 
-## Reference Paper
-[1] Yang, Y., Guan, X., and You, J. CLOPE: a fast and effective clutering algorithm for transactional data. In Proceedings of the KDD'02, Edmonton, AB, Canada, July 2002.
+### Clope.java path
+weka/src/main/java/weka/clusterers/Clope.java
+[Clope.java](link)
 
-Which part of the source you modified, explicitly written the full path starting from the root. 
-Clope adalah sebuah metode clustering dan termasuk ke dalam unsupervised learning. Bagian yang kami modif untuk membuat algoritma Clope pada WEKA adalah dengan memasukkan source code yaitu, Clope.java, ke dalam folder clustering (weka\src\main\java\weka\clusterers).
+### weka.jar path
+weka/dist/weka.jar
+[weka.jar](link)
 
-Berbeda dengan klasifikasi, Untuk membuat metode clustering baru pada software WEKA, tidak diperlukan untuk menaruh file perubahan pada package directory seperti bayes, funtions, tree, dan lain-lain. 
+Bagian yang kami modif untuk membuat algoritma Clope pada WEKA adalah dengan memasukkan file Clope.java, ke dalam folder clustering. Berbeda dengan klasifikasi, Untuk membuat metode clustering baru pada software WEKA, tidak diperlukan untuk menaruh file perubahan pada package directory seperti bayes, funtions, tree, dan lain-lain.
 
-## Dataset
-Dataset capabilities:
-- Atribut nominal
+### Reference Paper
+[1] Yang, Y., Guan, X., and You, J. CLOPE: a fast and effective clutering algorithm for transactional data. In Proceedings of the KDD'02, Edmonton, AB, Canada, July 2002. [Paper original]
+link:: https://github.com/novitasari353/Clope/blob/main/CLOPE.pdf
+
+#### Dataset capabilities:
+- Atribul nominal
 - Missing value
