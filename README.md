@@ -15,7 +15,7 @@ Bagian yang kami modif untuk membuat algoritma Clope pada WEKA adalah dengan mem
 
 ### Reference Paper
 [1] Yang, Y., Guan, X., and You, J. CLOPE: a fast and effective clutering algorithm for transactional data. In Proceedings of the KDD'02, Edmonton, AB, Canada, July 2002. [Paper original]
- link: https://github.com/novitasari353/Clope/blob/main/CLOPE.pdf
+[link to Reference Paper](https://github.com/novitasari353/Clope/blob/main/CLOPE.pdf)pdf
 
 #### Dataset capabilities:
 - Atribul nominal
